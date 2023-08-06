@@ -1,7 +1,8 @@
 .team-img{
-    background-image: url(/images/banner1.png);
+    background-image: url(./images/banner1.png);
     height: 70vh;
     background-size: cover;
     background-repeat: no-repeat;
+    
     
 }
